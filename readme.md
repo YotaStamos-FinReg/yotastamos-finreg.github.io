@@ -31,15 +31,27 @@
 
 * Notable Collaboration with The Banker FT: Co-authored "Decoding ESRB's #DeFiGuidelines Amid #CryptoVolatility: "Exploring Nuanced Regulation" with James King from FT's The Banker.<br>
 
+**Professional Experience**
+* **Alpha Bank Athens, Greece:***
+  * Before starting my Entrepreneurial pursues I spent 8 years as a **Senior Risk Officer:**, at Alpha Bank Greece (2007 - 2016):<br> I developed and introduced a suite of regulatory and credit risk reports for top-tier management. Played a pivotal role in credit risk strategy and regulatory compliance at Alpha Bank's Credit Risk Data and Analysis<br>
 
-**Alpha Bank Athens, Greece:***
-* Before starting my Entrepreneurial pursues I spent 8 years as a **Senior Risk Officer:**, at Alpha Bank Greece (2007 - 2016):<br> where I developed and introduced a suite of regulatory and credit risk reports for top-tier management. Played a pivotal role in credit risk strategy and regulatory compliance at Alpha Bank's Credit Risk Data and Analysis<br>
+* **Credit Agricole**
+  * Economist, Economic Analysis and Research Division (Jan 2004 - July 2007)
+  * Conducted macroeconomic studies, focusing on Greece, Cyprus, and Southeastern Europe (SEE).
 
-**Credit Agricole** 
+* **Emporiki Bank**
+  * Unit Head of Monitoring, International Subsidiaries Division (Jan 2000 - Jan 2004)
+  * Oversaw risk management of international subsidiaries in SEE and Cyprus.
+  * Credit Officer, Corporate and Retail Banking Division (Sep 1994 - Jan 2000)**
+  * Managed the corporate loan portfolio, overseeing the entire credit management lifecycle.
+ 
+  **Entrepreneurial Pursues:*** <br>
+  * Participant as a Startup Founder @ Pioneer.app, A Silicon Valley Startup Accelerator, (January 2019 - December 2022)
+  * Co-led blockchain and cryptocurrency ventures, aligning innovation with complex regulatory 
+    requirements.Successfully navigated intricate regulatory landscapes, ensuring compliance across 
+    product development.<br>
 
-**Emporiki Bank**
-
-- 👀 I’m interested in ...
+- 👀 I’m interested in Generative AI & Large Language Models
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact us to hear more: yotastamou1@gmail.com
