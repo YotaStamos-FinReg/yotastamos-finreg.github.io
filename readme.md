@@ -2,7 +2,7 @@
 
 - 👋 Hi, I am a former banker and Senior Risk Officer with extensive experience in the banking sector and part of the founding team of "Yota Stamos Regulatory & Credit Risk Reports Platform"<br>
 
-**Yota Stamos Platform Services:**
+**Regulatory & Credit Risk Reports:**
 * A comprehensive suite of services designed to provide financial institutions with up-to-date insights on regulatory and credit risk landscapes, including specialized insights into digital finance regulation and AI regulation. This platform bridges the gap between traditional banking, the digital financial world, and emerging technological regulations, ensuring stakeholders remain informed and agile.<br>
 
 **Our Customer's Needs:**
