@@ -51,10 +51,10 @@
     requirements.Successfully navigated intricate regulatory landscapes, ensuring compliance across 
     product development.<br>
 
-- 👀 I’m interested in Generative AI & Large Language Models
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Contact us to hear more: yotastamou1@gmail.com
+- 👀 I’m interested in Generative AI & Large Language Models. The potential of these technologies to revolutionize industries and improve human-computer interaction fascinates me.
+- 🌱 I’m currently learning  how to become a better mother. Balancing professional aspirations with the joys and challenges of motherhood is a journey I cherish every day.
+- 💞️ I’m looking to collaborate on projects that merge the power of Generative AI with real-world applications, especially those that can make a positive impact on families and children.
+- 📫 Contact us to discuss potential collaborations, share insights on AI, or simply to exchange parenting tips. Reach out at yotastamou1@gmail.com.
 
 <!---
 YotaStamos/YotaStamos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
