@@ -49,7 +49,7 @@
   * Participant as a Startup Founder @ Pioneer.app, A Silicon Valley Startup Accelerator, (January 2019 - December 2022)
   * Co-led blockchain and cryptocurrency ventures, aligning innovation with complex regulatory 
     requirements.Successfully navigated intricate regulatory landscapes, ensuring compliance across 
-    product development.<br>
+    product development.<br><br>
 
 - 👀 I’m interested in Generative AI & Large Language Models. The potential of these technologies to revolutionize industries and improve human-computer interaction fascinates me.
 - 🌱 I’m currently learning  how to become a better mother. Balancing professional aspirations with the joys and challenges of motherhood is a journey I cherish every day.
