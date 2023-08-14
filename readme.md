@@ -18,7 +18,7 @@
   * **Regulatory Communication:** Communicating credit risk nuances to regulatory bodies.<br>
 
 **Team:**
-* Yota Stamou: Founder, with extensive experience in banking, regulatory compliance, and credit risk reporting.
+* Panagiota Stamou: Founder, with extensive experience in banking, regulatory compliance, and credit risk reporting.
 * Development Team: Comprising experts in neural networks, automation, and backend operations.<br>
 
 
@@ -33,15 +33,15 @@
 
 **Professional Experience**
 * **Alpha Bank Athens, Greece:***
-  * Before starting my Entrepreneurial pursues I spent 8 years as a **Senior Risk Officer:**, at Alpha Bank Greece (2007 - 2016):<br> I developed and introduced a suite of regulatory and credit risk reports for top-tier management. Played a pivotal role in credit risk strategy and regulatory compliance at Alpha Bank's Credit Risk Data and Analysis<br>
+  * Before starting my Entrepreneurial pursuits I spent 8 years as a **Senior Risk Officer:**, at Alpha Bank Greece (2007 - 2016):<br> I developed and introduced a suite of regulatory and credit risk reports for top-tier management. Played a pivotal role in credit risk strategy and regulatory compliance at Alpha Bank's Credit Risk Data and Analysis<br>
 
-* **Credit Agricole**
+* **Emporiki Bank**
   * Economist, Economic Analysis and Research Division (Jan 2004 - July 2007)
   * Conducted macroeconomic studies, focusing on Greece, Cyprus, and Southeastern Europe (SEE).
 
-* **Emporiki Bank**
   * Unit Head of Monitoring, International Subsidiaries Division (Jan 2000 - Jan 2004)
   * Oversaw risk management of international subsidiaries in SEE and Cyprus.
+
   * Credit Officer, Corporate and Retail Banking Division (Sep 1994 - Jan 2000)**
   * Managed the corporate loan portfolio, overseeing the entire credit management lifecycle.
  
