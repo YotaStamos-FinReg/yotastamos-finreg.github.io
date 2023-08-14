@@ -45,7 +45,7 @@
   * Credit Officer, Corporate and Retail Banking Division (Sep 1994 - Jan 2000)**
   * Managed the corporate loan portfolio, overseeing the entire credit management lifecycle.
  
-  **Entrepreneurial Pursues:*** <br>
+  **Entrepreneurial Pursues:** <br>
   * Participant as a Startup Founder @ Pioneer.app, A Silicon Valley Startup Accelerator, (January 2019 - December 2022)
   * Co-led blockchain and cryptocurrency ventures, aligning innovation with complex regulatory 
     requirements.Successfully navigated intricate regulatory landscapes, ensuring compliance across 
