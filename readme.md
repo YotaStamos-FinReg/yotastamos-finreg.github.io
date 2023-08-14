@@ -1,4 +1,4 @@
-## Yota Stamos: Regulatory & Credit Risk Reports Platfotm
+## Yota Stamos: Regulatory & Credit Risk Reports
 
 - 👋 Hi, I am a former banker and Senior Risk Officer with extensive experience in the banking sector. I am part of the founding team building this Platform for Regulatory & Credit Risk Reports<br><br>
 
