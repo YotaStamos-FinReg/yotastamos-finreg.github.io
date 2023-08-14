@@ -1,4 +1,4 @@
-                                    ## Yota Stamos
+                                    Yota Stamos
 
 - 👋 Hi, I am a former banker and Senior Risk Officer with extensive experience in the banking sector and part of the founding team of "Yota Stamos Regulatory & Credit Risk Reports Platform"<br>
 
