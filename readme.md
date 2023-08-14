@@ -23,10 +23,12 @@ which are becoming increasingly critical in the modern financial ecosystem.
 
 **Team:**
 * Yota Stamou: Founder, with extensive experience in banking, regulatory compliance, and credit risk reporting.
-* Development Team: Comprising experts in neural networks, automation, and backend operations.
+* Development Team: Comprising experts in neural networks, automation, and backend operations.<br>
 
 
-**"The Future of Money Newsletter"** <br>
+**Industry Insights:** <br>
+
+The Future of Money Newsletter <br>
 * Summary: A bi-weekly publication that sheds light on the latest trends, innovations, and challenges in finance. With an average of 500 views per issue and collaborations with industry leaders like The Banker, the newsletter is a beacon for financial professionals seeking clarity in a complex world.<br>
 
 * Publication Frequency: 2-3 times a week<br>
@@ -36,7 +38,7 @@ which are becoming increasingly critical in the modern financial ecosystem.
 * Highlighted Engagement: I had the pleasure of engaging in a valuable exchange with James King from FT's The Banker to discuss the intricacies of the #ESRB's suggested guidelines for the #DeFi industry
 
 **Alpha Bank Athens, Greece:***
-* I spent 8 years as a **Senior Risk Officer:**, at Alpha Bank Greece (2007 - 2016):<br> where I developed and introduced a suite of regulatory and credit risk reports for top-tier management. Played a pivotal role in credit risk strategy and regulatory compliance at Alpha Bank's Credit Risk Data and Analysis<br>
+* Before starting my Entrepreneurial pursues I spent 8 years as a **Senior Risk Officer:**, at Alpha Bank Greece (2007 - 2016):<br> where I developed and introduced a suite of regulatory and credit risk reports for top-tier management. Played a pivotal role in credit risk strategy and regulatory compliance at Alpha Bank's Credit Risk Data and Analysis<br>
 
 **Credit Agricole** 
 
