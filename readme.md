@@ -26,8 +26,21 @@ which are becoming increasingly critical in the modern financial ecosystem.
 * Development Team: Comprising experts in neural networks, automation, and backend operations.
 
 
+**"The Future of Money Newsletter"** <br>
+* Summary: A bi-weekly publication that sheds light on the latest trends, innovations, and challenges in finance. With an average of 500 views per issue and collaborations with industry leaders like The Banker, the newsletter is a beacon for financial professionals seeking clarity in a complex world.<br>
 
+* Publication Frequency: 2-3 times a week<br>
+* Average Views: 750 views per issue / Peak Views: 2,000 views <br>
 
+* Notable Collaboration with The Banker FT: Co-authored "Decoding ESRB's #DeFiGuidelines Amid #CryptoVolatility: "Exploring Nuanced Regulation" with James King from FT's The Banker.<br>
+* Highlighted Engagement: I had the pleasure of engaging in a valuable exchange with James King from FT's The Banker to discuss the intricacies of the #ESRB's suggested guidelines for the #DeFi industry
+
+**Alpha Bank Athens, Greece:***
+* I spent 8 years as a **Senior Risk Officer:**, at Alpha Bank Greece (2007 - 2016):<br> where I developed and introduced a suite of regulatory and credit risk reports for top-tier management. Played a pivotal role in credit risk strategy and regulatory compliance at Alpha Bank's Credit Risk Data and Analysis<br>
+
+**Credit Agricole** 
+
+**Emporiki Banks**
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
