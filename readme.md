@@ -1,15 +1,17 @@
                     Yota Stamos Regulatory & Credit Risk Reports Platfotm
 
-- 👋 Hi, I am a former banker and Senior Risk Officer with extensive experience in the banking sector and part of the founding team of **A Regulatory & Credit Risk Reports Platform** <br>
+- 👋 Hi, I am a former banker and Senior Risk Officer with extensive experience in the banking sector and part of the founding team of **A Regulatory & Credit Risk Reports Platform** <br><br>
 
 **Value Added Platform and Services:**
 * A comprehensive suite of services designed to provide financial institutions with up-to-date insights on regulatory and credit risk landscapes, including specialized insights into digital finance regulation and AI regulation. This platform bridges the gap between traditional banking, the digital financial world, and emerging technological regulations, ensuring stakeholders remain informed and agile.<br>
+
 
 **Our Customer's Needs:**
 * Financial institutions, institutional investors, foundations, and other key stakeholders in the financial ecosystem need timely and accurate insights into the ever-evolving regulatory and credit risk landscapes. . This includes the evolving domains of:
   * **digital finance regulation** and
   * **AI regulation**,<br>
-which are becoming increasingly critical in the modern financial ecosystem.
+which are becoming increasingly critical in the modern financial ecosystem.<br>
+
 
 **Reports (Tailored According to Customer Needs):**
 * The reports are custom-made to cater to the specific needs of each financial institution. The list below is indicative and showcases the range of reports that can be produced. However, the actual content, depth, and focus of each report is adjusted based on the unique requirements of the customer:<br><br>
@@ -19,7 +21,7 @@ which are becoming increasingly critical in the modern financial ecosystem.
   * **Economic Analysis:** Reporting on economic shifts and trends.
   * **Country-Specific Reports:** Detailed risk assessment for specific countries.
   * **Qualitative Disclosures:** Presentation of the bank's credit risk management strategy.
-  * **Regulatory Communication:** Communicating credit risk nuances to regulatory bodies.
+  * **Regulatory Communication:** Communicating credit risk nuances to regulatory bodies.<br>
 
 **Team:**
 * Yota Stamou: Founder, with extensive experience in banking, regulatory compliance, and credit risk reporting.
@@ -35,7 +37,7 @@ The Future of Money Newsletter <br>
 * Average Views: 750 views per issue / Peak Views: 2,000 views <br>
 
 * Notable Collaboration with The Banker FT: Co-authored "Decoding ESRB's #DeFiGuidelines Amid #CryptoVolatility: "Exploring Nuanced Regulation" with James King from FT's The Banker.<br>
-* Highlighted Engagement: I had the pleasure of engaging in a valuable exchange with James King from FT's The Banker to discuss the intricacies of the #ESRB's suggested guidelines for the #DeFi industry
+* Highlighted Engagement: I had the pleasure of engaging in a valuable exchange with James King from FT's The Banker to discuss the intricacies of the #ESRB's suggested guidelines for the #DeFi industry<br>
 
 **Alpha Bank Athens, Greece:***
 * Before starting my Entrepreneurial pursues I spent 8 years as a **Senior Risk Officer:**, at Alpha Bank Greece (2007 - 2016):<br> where I developed and introduced a suite of regulatory and credit risk reports for top-tier management. Played a pivotal role in credit risk strategy and regulatory compliance at Alpha Bank's Credit Risk Data and Analysis<br>
