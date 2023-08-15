@@ -33,7 +33,7 @@
 
 **Professional Experience**
 * **Alpha Bank Athens, Greece:***
-  * Before starting my Entrepreneurial pursuits I spent 8 years as a **Senior Risk Officer:**, at Alpha Bank Greece and Emporiki Bank Greece (2007 - 2016):<br> I developed and introduced a suite of regulatory and credit risk reports for top-tier management, regulatory bodies, institutional entities and rating agencies. Played a pivotal role in credit risk strategy and regulatory compliance at Alpha Bank's Credit Risk Data and Analysis Division.<br>
+  * Before starting my Entrepreneurial pursuits I spent 8 years as a **Senior Risk Officer:**, at Alpha Bank Greece and Emporiki Bank Greece (2007 - 2016) <br> I developed and introduced a suite of regulatory and credit risk reports for top-tier management, regulatory bodies, institutional entities and rating agencies. Played a pivotal role in credit risk strategy and regulatory compliance at Alpha Bank's Credit Risk Data and Analysis Division.<br>
 
 * **Emporiki Bank**
   * Risk Officer, Risk Management Division (July 2004 - July 2013)
