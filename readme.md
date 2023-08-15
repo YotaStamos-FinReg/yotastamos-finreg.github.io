@@ -29,7 +29,7 @@
 * Publication Frequency: 2-3 times a week<br>
 * Average Views: 750 views per issue / Peak Views: 2,000 views <br>
 
-* Notable Collaboration with The Banker FT: Co-authored "ESRB proposes DeFi rules amid crypto volatility" with James King from FT's The Banker.<br>
+* Notable Collaboration with The Banker, FT: Co-authored "ESRB proposes DeFi rules amid crypto volatility" with James King from FT's The Banker.<br>
 
 **Professional Experience**
 * **Alpha Bank Athens, Greece:***
